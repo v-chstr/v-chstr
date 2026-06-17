@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, I'm Chester Gabrienne Tambis 👋
 
-<!--
-**v-chstr/v-chstr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Web Developer | 4th year BSIT Student at SPUP | App/Web Development Enthusiast</h3>
+  
+  <p>Passionate about building engaging applications and exploring the world of web and mobile development.<br>
+  Currently a 4th-year IT student expanding my skillset to become a professional App/Web Developer.</p>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About Me
+
+- 🔭 Want to become an App/Web Developer.
+- 🌱 Currently learning about App Development.
+- 🤔 4th Year BSIT Student at St. Paul University Philippines Major in Website Development.
+---
+
+### Connect With Me
+
+<p>
+  <a href="https://www.facebook.com/chester.gabrienne.tambis/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://www.instagram.com/chestambis/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://github.com/v-chstr"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
