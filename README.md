@@ -3,8 +3,8 @@
   
   <h3>Web Developer | Story-Driven Gamer </h3>
   
-  <p>Passionate about building engaging applications and exploring the world of web and mobile development.<br>
-  Currently a 4th-year IT student expanding my skillset to become a professional App/Web Developer.</p>
+  <p>4th-Year IT Student specializing in full-stack web and mobile development.<br>
+  Focused on building efficient, data-driven applications and robust system architectures.</p>
 
 </div>
 
