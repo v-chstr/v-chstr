@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi, I'm Chester Gabrienne Tambis</h1>
   
-  <h3>Web Developer | 4th year BSIT Student at SPUP | App/Web Development Enthusiast</h3>
+  <h3>Web Developer | Story-Driven Gamer </h3>
   
   <p>Passionate about building engaging applications and exploring the world of web and mobile development.<br>
   Currently a 4th-year IT student expanding my skillset to become a professional App/Web Developer.</p>
