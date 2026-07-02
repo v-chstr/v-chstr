@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍_Cabarroguis,_Cagayan_Valley,_Philippines-0d1117?style=flat-square&labelColor=0d1117" alt="Location" />
+  <img src="https://img.shields.io/badge/📍_Tuguegarao,_Cagayan_Valley,_Philippines-0d1117?style=flat-square&labelColor=0d1117" alt="Location" />
 </p>
 
 <p align="center">
