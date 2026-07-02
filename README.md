@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Chester+Tambis;3rd-Year+IT+Student+%7C+Web+Development+Major" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Chester+Tambis;3rd-Year+IT+Student+%7C+Web+Development" alt="Typing SVG" />
   </a>
 </p>
 
@@ -351,9 +351,8 @@ Open To:
 ## Connect
 
 <p align="center">
-  <a href="mailto:chestertambis@gmail.com"><img src="https://img.shields.io/badge/Gmail-4c1d95?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
+  <a href="mailto:tambischester@gmail.com"><img src="https://img.shields.io/badge/Gmail-4c1d95?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
   <a href="https://github.com/v-chstr"><img src="https://img.shields.io/badge/GitHub-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" /></a>
-  <a href="https://v-chstr.github.io"><img src="https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" /></a>
 </p>
 
 ---
