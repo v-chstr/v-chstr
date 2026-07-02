@@ -297,7 +297,7 @@ Conducting applied research in web technologies, AI integration, and game develo
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=v-chstr&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+   <img src="https://github-profile-trophy.vercel.app/?username=v-chstr&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -313,11 +313,7 @@ Conducting applied research in web technologies, AI integration, and game develo
 ## Contribution Snake
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/v-chstr/v-chstr/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/v-chstr/v-chstr/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/v-chstr/v-chstr/output/github-snake-dark.svg" alt="Snake Animation" width="100%" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/v-chstr/v-chstr/output/github-snake-dark.svg" alt="Snake Animation" width="100%" />
 </p>
 
 ---
