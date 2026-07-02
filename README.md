@@ -228,7 +228,7 @@ This project serves as an architectural template for full-stack applications. Th
 ## Experience & Academic Background
 
 ### Capstone Project Lead
-**Saint Paul University Philippines** · *2025 — Present*
+**Saint Paul University Philippines** · *2023 — Present*
 
 Leading the design, development, and deployment of the **Customer Feedback & Evaluation System** — a capstone project addressing institutional needs for structured feedback collection and data-driven decision support.
 
