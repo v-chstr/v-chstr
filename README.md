@@ -35,7 +35,7 @@
 ## About
 
 ```
-Full-Stack Web Developer  ·  Game Developer  ·  AI Integration Enthusiast
+Full-Stack Web Developer  ·  App Developer  ·  Story-Driven Gamer
 ```
 
 I am a **3rd-year BSIT student** at **Saint Paul University Philippines**, majoring in **Web Development**. My engineering focus spans the full product lifecycle — from database architecture and API design to polished, responsive front-end interfaces. I build with intent: every system I ship is designed for scalability, maintainability, and real-world impact.
