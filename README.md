@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Chester+Tambis;3rd-Year+IT+Student+%7C+Web+Development" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Chester+Tambis;4th-Year+IT+Student+%7C+Web+Development" alt="Typing SVG" />
   </a>
 </p>
 
@@ -38,7 +38,7 @@
 Full-Stack Web Developer  ·  App Developer  ·  Story-Driven Gamer
 ```
 
-I am a **3rd-year BSIT student** at **Saint Paul University Philippines**, majoring in **Web Development**. My engineering focus spans the full product lifecycle — from database architecture and API design to polished, responsive front-end interfaces. I build with intent: every system I ship is designed for scalability, maintainability, and real-world impact.
+I am a **4th-year BSIT student** at **Saint Paul University Philippines**, majoring in **Web Development**. My engineering focus spans the full product lifecycle — from database architecture and API design to polished, responsive front-end interfaces. I build with intent: every system I ship is designed for scalability, maintainability, and real-world impact.
 
 Beyond the web stack, I actively explore **2D game development** with Godot and investigate **Retrieval-Augmented Generation (RAG)** systems to bridge intelligent AI pipelines with practical applications. I approach every project with a **product engineering mindset** — optimizing not just for function, but for user experience, performance, and long-term extensibility.
 
