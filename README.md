@@ -354,7 +354,7 @@ Open To:
 ---
 
 <p align="center">
-  <i>"Ship systems, not features. Engineer products, not pages."</i>
+  <i>"Wala bang sisira sa single life ko? :("</i>
 </p>
 
 <p align="center">
