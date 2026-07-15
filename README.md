@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Saint_Paul_University_Philippines-SPUP-4c1d95?style=for-the-badge&labelColor=0d1117" alt="SPUP" />
   <img src="https://img.shields.io/badge/BSIT-Web_Development-7c3aed?style=for-the-badge&labelColor=0d1117" alt="BSIT" />
-  <img src="https://img.shields.io/badge/3rd_Year-2025--2026-a78bfa?style=for-the-badge&labelColor=0d1117" alt="Year Level" />
+  <img src="https://img.shields.io/badge/4th_Year-2026--2027-a78bfa?style=for-the-badge&labelColor=0d1117" alt="Year Level" />
 </p>
 
 <p align="center">
